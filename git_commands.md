@@ -10,4 +10,6 @@
 10. git branch              = list all of the branches currently available 
 11. git help <command>      = help page for certain command
 12. git rm                  = remove a file/directory 
-13. git mv                  = rename a file/directory 
+13. git mv                  = rename a file/directory
+14. git push                = push changes from local .git to cloud .git (i.e on GitHub)
+15. git log                 = show loh of all versions 
