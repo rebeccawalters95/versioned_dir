@@ -9,3 +9,5 @@
 9.  git checkout branchname = go to that branch 
 10. git branch              = list all of the branches currently available 
 11. git help <command>      = help page for certain command
+12. git rm                  = remove a file/directory 
+13. git mv                  = rename a file/directory 
